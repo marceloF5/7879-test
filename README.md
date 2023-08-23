@@ -15,7 +15,7 @@ pick-up with you and pair on extending where you have left off.
 ```
 .
 ├── components
-├── pages
+├── app
 ├── public
 │     └── fonts
 ├── styles
