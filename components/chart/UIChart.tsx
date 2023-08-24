@@ -1,3 +1,4 @@
+'use client'
 import {
   AreaStyleOptions,
   ChartOptions,
@@ -114,7 +115,7 @@ export const UIChart = (props: {
 
   return (
     <div className="bg-[#326985]">
-      <div className="flex flex-col justify-between px-12 py-12 text-white border-b border-white  sm:flex-row">
+      <div className="flex flex-col justify-between px-12 py-12 text-white border-b border-white sm:flex-row">
         <span className="text-2xl">Your portfolio</span>
         <div className="flex flex-col sm:items-end">
           <span className="text-2xl">
